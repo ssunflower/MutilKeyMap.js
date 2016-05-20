@@ -1,6 +1,6 @@
 # usages: #
  
-    m = new MutilKeyMap()
+    var m = new MutilKeyMap()
     
     m.set('red','37',8001)
     
