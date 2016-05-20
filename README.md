@@ -1,4 +1,4 @@
-# a simple mutil key map written in JavaScript #
+# a simple multi key map written in JavaScript #
 # usages: #
  
     var m = new MutilKeyMap()
