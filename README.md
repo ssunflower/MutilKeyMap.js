@@ -2,6 +2,9 @@
 # usages: #
  
     var m = new MutilKeyMap()
+    m.set('key',8888)
+    m.get('key')
+    8888
     
     m.set('red','37',8001)
     
